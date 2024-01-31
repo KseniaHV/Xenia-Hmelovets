@@ -18,5 +18,6 @@
 <h4>Программы с которыми я работала во время прохождения курса:</h4>
 <ul>
 <li>Postman;
+<li>Devtools;
 <li>Android Studio;
 <li>Charles.
