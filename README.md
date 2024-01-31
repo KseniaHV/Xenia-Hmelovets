@@ -13,7 +13,7 @@
  <li>Проводить тестирования веб-приложений, <a href= "https://docs.google.com/spreadsheets/d/1zqHZk5xZxpLchpyZUKoRx-8Z270kH7Z3ITAfSwrLsC0/edit#gid=94813143">проект</a>;</li>
  <li>Тестированию мобильных приложений и API, <a href= "https://docs.google.com/spreadsheets/d/1zha4RgTeFJl_HcSx6qJ6a5eUrnaI3hWcvcP7KKrqLEU/edit#gid=857523888">проект</a>;</li>
  <li>Изучила основы баз данных, <a href= "https://docs.google.com/spreadsheets/d/19heGcNpmXabHI7jNqzRHdbWdI9Gll8nPH9UYUdRjlCU/edit#gid=0">проект</a>;</li>
- <li>Дипломный проект по ручному тестированию, <a href= "https://docs.google.com/spreadsheets/d/1Q38cGiEy9ruD33EjwI1D499VxTULmdRj_h85QEk804s/edit#gid=1782311256">дипломный проект</a>;</li>
+ <li>Дипломный проект по ручному тестированию, <a href= "https://docs.google.com/spreadsheets/d/1Q38cGiEy9ruD33EjwI1D499VxTULmdRj_h85QEk804s/edit#gid=1782311256">дипломный проект</a>.</li>
  </ul>
 <h4>Программы с которыми я работала во время прохождения курса:</h4>
 <ul>
