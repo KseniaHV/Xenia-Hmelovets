@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Меня зовут <a href="https://daniilshat.ru/" target="_blank">Ксения</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> На данный момент я закончила обучение курсов по ручному и автоматизированому тестированию на Java </h3>
+<h3 align="center"> На данный момент я закончила обучение по направлению QA инженер (Java) </h3>
 <h4>За время обучения ручному тестированию я научилась:</h4>
 <ul>
  <li>Проводить тест-анализ требований; 
@@ -26,14 +26,17 @@
  <li>Занималась написанием юнит тестов, <a href= "https://github.com/KseniaHV/java-unit-test">проект</a>;</li>
  <li>Проектировала UI тесты через Selenium WebDrive, <a href= "https://github.com/KseniaHV/Sprint_4">проект</a>;</li>
  <li>Писала автотесты API с помощью библиотеки RestAssured с постройкой отчета в фреймворке Allure, <a href= "https://github.com/KseniaHV/Sprint-7">проект</a>;</li>
- <li>Дипломный проект по автоматизированому тестированию состоял их трез заданий: 
- <li>Задание 1(Написание юнит-тестов), <a href= "https://github.com/KseniaHV/Diplom_1">дипломный проект 1</a>;</li>
- <li>Задание 2(Написание UI тестов с оценкой покрытия плагином Jacoco), <a href= "https://github.com/KseniaHV/Diplom_2">дипломный проект 2</a>;</li>
- <li>Задание 3(Тестирование API), <a href= "https://github.com/KseniaHV/Diplom_3">дипломный проект 3</a>;</li>
-  
+  <li>Дипломный проект по автоматизированному тестированию состоял из трех заданий:</li>
+  <ul>
+    <li>Задание 1 (Написание юнит-тестов), <a href="https://github.com/KseniaHV/Diplom_1">дипломный проект 1</a>;</li>
+    <li>Задание 2 (Написание UI тестов с оценкой покрытия плагином Jacoco), <a href="https://github.com/KseniaHV/Diplom_2">дипломный проект 2</a>;</li>
+    <li>Задание 3 (Тестирование API), <a href="https://github.com/KseniaHV/Diplom_3">дипломный проект 3</a>;</li>
+  </ul>
+  </ul>
 <h4>Программы с которыми я работала во время прохождения курса:</h4>
 <ul>
 <li>Postman;
 <li>Devtools;
 <li>Android Studio;
-<li>Charles.
+<li>Charles;
+<li>IDEA;
