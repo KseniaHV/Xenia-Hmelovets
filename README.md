@@ -19,13 +19,17 @@
  <li>Основам программирования на Java (введение в ООП: объекты и методы);
  <li>Изучила систему сборки Maven, управление зависимостями и написание автотестов на JUnit4;
  <li>Ознакомилась с циклами, параметризованными тестами и аннотациями;
- <li>["Изучила инъекцию зависимотей(DI), применяла Mockito при создании автотестов"](https://github.com/KseniaHV/Sprint_6)
+ <li>Изучила инъекцию зависимотей(DI), применяла Mockito при создании автотестов, <a href= "https://github.com/KseniaHV/Sprint_6">проект</a>;</li>
  <li>Изучила типы данных и модификаторы доступа;
  <li>Ознакомилась с одним из принципов ООП - наследование;
  <li>Выстраивала процесс непрерывной интеграции через Github;
- <li>["Занималась написанием юнит тестов"](https://github.com/KseniaHV/java-unit-test),
- <li>["Проектировала UI тесты через Selenium WebDriver"](https://github.com/KseniaHV/Sprint_4),
- <li>["Писала автотесты API с помощью библиотеки RestAssured с постройкой отчета в фреймворке Allure"](https://github.com/KseniaHV/Sprint-7),
+ <li>Занималась написанием юнит тестов, <a href= "https://github.com/KseniaHV/java-unit-test">проект</a>;</li>
+ <li>Проектировала UI тесты через Selenium WebDrive, <a href= "https://github.com/KseniaHV/Sprint_4">проект</a>;</li>
+ <li>Писала автотесты API с помощью библиотеки RestAssured с постройкой отчета в фреймворке Allure, <a href= "https://github.com/KseniaHV/Sprint-7">проект</a>;</li>
+ <li>Дипломный проект по автоматизированому тестированию состоял их трез заданий: 
+ <li>Задание 1(Написание юнит-тестов), <a href= "https://github.com/KseniaHV/Diplom_1">дипломный проект 1</a>;</li>
+ <li>Задание 2(Написание UI тестов с оценкой покрытия плагином Jacoco), <a href= "https://github.com/KseniaHV/Diplom_2">дипломный проект 2</a>;</li>
+ <li>Задание 3(Тестирование API), <a href= "https://github.com/KseniaHV/Diplom_3">дипломный проект 3</a>;</li>
   
 <h4>Программы с которыми я работала во время прохождения курса:</h4>
 <ul>
