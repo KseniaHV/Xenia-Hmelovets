@@ -36,7 +36,12 @@
 <h4>Программы с которыми я работала во время прохождения курса:</h4>
 <ul>
 <li>Postman;
-<li>Devtools;
+<li>DevTools;
 <li>Android Studio;
+<li>YouTrack;
+<li>Figma;
+<li>Apidoc, Swagger;
+<li>Terminal, Cygwin;
+<li>Git;
 <li>Charles;
 <li>IDEA;
